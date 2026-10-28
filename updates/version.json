@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "build": "2026.10.28.3",
-  "created": "2026-10-28T18:51:17+08:00",
-  "notes": "自动更新：关于页可查版本、后台下载、重启应用；下载自动切换 CDN 节点",
+  "build": "2026.10.28.4",
+  "created": "2026-10-28T19:01:40+08:00",
+  "notes": "自动更新：关于页查版本、后台下载、重启应用；多节点回退，避免缓存旧清单",
   "app": {
-    "url": "https://cdn.jsdelivr.net/gh/mingxingjun/cyrene-study-dist@main/updates/app-2026.10.28.3.zip",
-    "size": 1469820,
-    "sha256": "be5b5b27ca8e77eb0abc57e1d77d0a3607fc8fbe1b26a4a64966bb42e74a5715"
+    "url": "https://cdn.jsdelivr.net/gh/mingxingjun/cyrene-study-dist@main/updates/app-2026.10.28.4.zip",
+    "size": 1470166,
+    "sha256": "08078a238d8d3984c65fd54c0e88ef2ed4073230251bd6bbb4b5284ad68201e9"
   },
   "requires_full": false,
   "full_url": "https://wwboi.lanzoue.com/b01i5ye1qb",
