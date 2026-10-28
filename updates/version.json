@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "build": "2026.10.28.2",
+  "created": "2026-10-28T18:45:03+08:00",
+  "notes": "接入自动更新：关于页显示版本、检查更新、后台下载、重启应用",
+  "app": {
+    "url": "https://cdn.jsdelivr.net/gh/mingxingjun/cyrene-study-dist@main/updates/app-2026.10.28.2.zip",
+    "size": 1469003,
+    "sha256": "f433b57466053bc6d896fae4c6787018affd34a87d9941b1b3540c8be9aafbde"
+  },
+  "requires_full": false,
+  "full_url": "https://wwboi.lanzoue.com/b01i5ye1qb",
+  "full_password": "5onr"
+}
