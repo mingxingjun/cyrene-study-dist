@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "build": "2026.10.28.6",
-  "created": "2026-10-28T19:28:52+08:00",
-  "notes": "自动更新：关于页查版本、后台下载、重启应用；清单和更新包都支持多节点，GitHub API 兜底",
+  "build": "2026.11.02.1",
+  "created": "2026-11-02T21:02:48+08:00",
+  "notes": "整包修复：2026.10.28.6 整包缺 runtime\\python312.zip，换电脑首次安装会报 encodings 缺失，该整包已作废；请改用整包 2026.11.02.1。本版 app 无功能变更。",
   "app": {
-    "url": "https://cdn.jsdelivr.net/gh/mingxingjun/cyrene-study-dist@main/updates/app-2026.10.28.6.zip",
+    "url": "https://cdn.jsdelivr.net/gh/mingxingjun/cyrene-study-dist@main/updates/app-2026.11.02.1.zip",
     "size": 1470405,
-    "sha256": "1944610c30dfcfadb87a6ff9ccd98376a9933ed0bb5f8ba5bacb3eed45620eb6"
+    "sha256": "82f8a3adb6ec944078040c090b14d6cedea8229072de7120199eb69a48de5869"
   },
   "requires_full": false,
   "full_url": "https://wwboi.lanzoue.com/b01i5ye1qb",
