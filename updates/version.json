@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "build": "2026.11.02.1",
-  "created": "2026-11-02T21:02:48+08:00",
-  "notes": "整包修复：2026.10.28.6 整包缺 runtime\\python312.zip，换电脑首次安装会报 encodings 缺失，该整包已作废；请改用整包 2026.11.02.1。本版 app 无功能变更。",
+  "build": "2026.11.03.1",
+  "created": "2026-11-03T16:58:22+08:00",
+  "notes": "新增「青瓷月白」主题：宣纸底 + 青瓷绿 + 鎏金细线，开屏动画同步换色；顺带修掉单选圈、截图框、日志里几处硬写死的深色。只改 app/，不用重装；回退＝去掉 index.html 里 html 的 theme-celadon。",
   "app": {
-    "url": "https://cdn.jsdelivr.net/gh/mingxingjun/cyrene-study-dist@main/updates/app-2026.11.02.1.zip",
-    "size": 1470405,
-    "sha256": "82f8a3adb6ec944078040c090b14d6cedea8229072de7120199eb69a48de5869"
+    "url": "https://cdn.jsdelivr.net/gh/mingxingjun/cyrene-study-dist@main/updates/app-2026.11.03.1.zip",
+    "size": 1476066,
+    "sha256": "e15a1f6300eb6c9166ed61c832c4866687d4a353aef3bdda3e982737483be7dc"
   },
   "requires_full": false,
-  "full_url": "https://wwboi.lanzoue.com/b01i5ye1qb",
-  "full_password": "5onr"
+  "full_url": "",
+  "full_password": ""
 }
