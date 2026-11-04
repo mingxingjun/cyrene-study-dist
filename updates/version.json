@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "build": "2026.11.04.3",
-  "created": "2026-11-04T14:56:16+08:00",
-  "notes": "填空题多空再修一次：整题一次问、按空号归位，后两空不再照抄前两空（准/快/稳态/动态）。",
+  "build": "2026.11.04.4",
+  "created": "2026-11-04T15:08:58+08:00",
+  "notes": "填空题多空修复的关键 bug：一页有两组同样空数的填空时，分组只按空数会混在一起，导致归位失效（现在按题干分组）。",
   "app": {
-    "url": "https://cdn.jsdelivr.net/gh/mingxingjun/cyrene-study-dist@main/updates/app-2026.11.04.3.zip",
-    "size": 1483554,
-    "sha256": "08877e2eece82535d5feccd092064d6e93514560653a92a9be1773057be5eac2"
+    "url": "https://cdn.jsdelivr.net/gh/mingxingjun/cyrene-study-dist@main/updates/app-2026.11.04.4.zip",
+    "size": 1484527,
+    "sha256": "3b247c15276584ecf281895535218a08e277ff98b6b2d5d1384be0c8e9b3735b"
   },
   "requires_full": false,
   "full_url": "https://wwboi.lanzoue.com/b01i5ye1qb",
