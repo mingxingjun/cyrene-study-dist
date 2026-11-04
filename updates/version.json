@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "build": "2026.11.04.4",
-  "created": "2026-11-04T15:08:58+08:00",
-  "notes": "填空题多空修复的关键 bug：一页有两组同样空数的填空时，分组只按空数会混在一起，导致归位失效（现在按题干分组）。",
+  "build": "2026.11.04.5",
+  "created": "2026-11-04T15:27:59+08:00",
+  "notes": "填空题多空的答案顺序按屏幕位置排（不再按 DOM 顺序），4 个空不会再整体倒过来；题干重复的警告也改成说清分组。",
   "app": {
-    "url": "https://cdn.jsdelivr.net/gh/mingxingjun/cyrene-study-dist@main/updates/app-2026.11.04.4.zip",
-    "size": 1484527,
-    "sha256": "3b247c15276584ecf281895535218a08e277ff98b6b2d5d1384be0c8e9b3735b"
+    "url": "https://cdn.jsdelivr.net/gh/mingxingjun/cyrene-study-dist@main/updates/app-2026.11.04.5.zip",
+    "size": 1485805,
+    "sha256": "9708f4b854a1bea419d2526128ad4ef65a1e768b2ca1ca1430ff5657a4020cce"
   },
   "requires_full": false,
   "full_url": "https://wwboi.lanzoue.com/b01i5ye1qb",
