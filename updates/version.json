@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "build": "2026.11.04.2",
-  "created": "2026-11-04T14:37:58+08:00",
-  "notes": "修了填空题：多空格子不再把同一段话灌进去，「第N空」标签也不再被当成选项；设置页新增「界面主题」开关，青瓷月白 / 昔涟粉紫一键切换。",
+  "build": "2026.11.04.3",
+  "created": "2026-11-04T14:56:16+08:00",
+  "notes": "填空题多空再修一次：整题一次问、按空号归位，后两空不再照抄前两空（准/快/稳态/动态）。",
   "app": {
-    "url": "https://cdn.jsdelivr.net/gh/mingxingjun/cyrene-study-dist@main/updates/app-2026.11.04.2.zip",
-    "size": 1481679,
-    "sha256": "392cd17953705c82c1cdbb3958228c02fcea03eb7f3521cc952047c60273211f"
+    "url": "https://cdn.jsdelivr.net/gh/mingxingjun/cyrene-study-dist@main/updates/app-2026.11.04.3.zip",
+    "size": 1483554,
+    "sha256": "08877e2eece82535d5feccd092064d6e93514560653a92a9be1773057be5eac2"
   },
   "requires_full": false,
   "full_url": "https://wwboi.lanzoue.com/b01i5ye1qb",
