@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "build": "2026.11.04.1",
-  "created": "2026-11-04T00:07:23+08:00",
-  "notes": "新增「青瓷月白」主题：宣纸底 + 青瓷绿 + 鎏金细线，开屏动画同步换色；顺带修掉单选圈、截图框、日志里几处硬写死的深色。只改 app/，不用重装；回退＝去掉 index.html 里 html 的 theme-celadon。",
+  "build": "2026.11.04.2",
+  "created": "2026-11-04T14:37:58+08:00",
+  "notes": "修了填空题：多空格子不再把同一段话灌进去，「第N空」标签也不再被当成选项；设置页新增「界面主题」开关，青瓷月白 / 昔涟粉紫一键切换。",
   "app": {
-    "url": "https://cdn.jsdelivr.net/gh/mingxingjun/cyrene-study-dist@main/updates/app-2026.11.04.1.zip",
-    "size": 1476066,
-    "sha256": "dc1e284148a565bdde29322a5097f56b75319745e8ebbb318f5b370d72f97e8b"
+    "url": "https://cdn.jsdelivr.net/gh/mingxingjun/cyrene-study-dist@main/updates/app-2026.11.04.2.zip",
+    "size": 1481679,
+    "sha256": "392cd17953705c82c1cdbb3958228c02fcea03eb7f3521cc952047c60273211f"
   },
   "requires_full": false,
   "full_url": "https://wwboi.lanzoue.com/b01i5ye1qb",
