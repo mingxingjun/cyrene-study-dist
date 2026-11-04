@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "build": "2026.11.04.8",
-  "created": "2026-11-04T15:53:43+08:00",
-  "notes": "多空填空顺序改用多判据（标签/几何/逆序互证）；计算题加了对齐提示（标准形式、σ%、ts=3.5/ζωn）。",
+  "build": "2026.11.04.9",
+  "created": "2026-11-04T16:15:19+08:00",
+  "notes": "加多空填空现场快照：每次跑都把每个空的帧内坐标/iframe 原点/页面坐标/标签打进日志，再排错一次就能定位。",
   "app": {
-    "url": "https://cdn.jsdelivr.net/gh/mingxingjun/cyrene-study-dist@main/updates/app-2026.11.04.8.zip",
-    "size": 1488230,
-    "sha256": "802de5d8f7921c41f947130b8121dd513f4c3bf73c3da6ecd4a125444a2dc664"
+    "url": "https://cdn.jsdelivr.net/gh/mingxingjun/cyrene-study-dist@main/updates/app-2026.11.04.9.zip",
+    "size": 1489158,
+    "sha256": "d5c5de00665310ece1b2dcc2195255f6a757ee4d61ba269ac8e2a87f17053ed2"
   },
   "requires_full": false,
   "full_url": "https://wwboi.lanzoue.com/b01i5ye1qb",
