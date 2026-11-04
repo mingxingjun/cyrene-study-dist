@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "build": "2026.11.04.5",
-  "created": "2026-11-04T15:27:59+08:00",
-  "notes": "填空题多空的答案顺序按屏幕位置排（不再按 DOM 顺序），4 个空不会再整体倒过来；题干重复的警告也改成说清分组。",
+  "build": "2026.11.04.6",
+  "created": "2026-11-04T15:42:25+08:00",
+  "notes": "填空题多空的格子各在各的 iframe 里，坐标要叠加 iframe 位置才能比先后；现在按页面坐标排序，4 个空不会再整体倒序。",
   "app": {
-    "url": "https://cdn.jsdelivr.net/gh/mingxingjun/cyrene-study-dist@main/updates/app-2026.11.04.5.zip",
-    "size": 1485805,
-    "sha256": "9708f4b854a1bea419d2526128ad4ef65a1e768b2ca1ca1430ff5657a4020cce"
+    "url": "https://cdn.jsdelivr.net/gh/mingxingjun/cyrene-study-dist@main/updates/app-2026.11.04.6.zip",
+    "size": 1486590,
+    "sha256": "ff39f9e234b5177ae0b22d012ae5c426a3d1f21ea354f87353e62402165a34d8"
   },
   "requires_full": false,
   "full_url": "https://wwboi.lanzoue.com/b01i5ye1qb",
