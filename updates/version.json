@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "build": "2026.11.17.1",
-  "created": "2026-11-17T00:23:05+08:00",
-  "notes": "简答题改成「短句作答」：原来提示词要求 80~300 字，模型真写小作文；现在定成 20~60 字一句话说清、不分点（题面写了「不少于N字」才按 N 的八成写）。落笔前再做两道机械收束：太长只留开头整句；太短又是个裸词、而题干正好有一个空位时，把词填回题干成整句（第25题「偏置项」→「参数b被称为偏置项。」）。同时给旧缓存加了长度校验，超过 100 字的简答缓存会重新问。",
+  "build": "2026.11.17.2",
+  "created": "2026-11-17T00:42:43+08:00",
+  "notes": "新增 tools\\restart_app.py：开发时一键重启（先关旧界面窗口再重启，避免桌面上留下指着死端口的空壳窗口）。运行方式不变，不影响答题/刷课逻辑。",
   "app": {
-    "url": "https://cdn.jsdelivr.net/gh/mingxingjun/cyrene-study-dist@main/updates/app-2026.11.17.1.zip",
+    "url": "https://cdn.jsdelivr.net/gh/mingxingjun/cyrene-study-dist@main/updates/app-2026.11.17.2.zip",
     "size": 1584931,
-    "sha256": "4e8d46b699b15bef9b2fd0543eda094d69daf98af0f111d9089162379fe9099f"
+    "sha256": "968ea5b9ad21dcfcf3129f0214d86fb7b2fa34fd131918267252becb651e2379"
   },
   "requires_full": false,
   "full_url": "https://wwboi.lanzoue.com/b01i5ye1qb",
