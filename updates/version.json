@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "build": "2026.11.16.1",
-  "created": "2026-11-16T21:15:10+08:00",
-  "notes": "修好「重启并应用」：①退出时不再用 taskkill /T 把重启助手连坐杀掉；②程序启动时把 cwd 切到根目录，避免 app\\\\ 目录被锁住；③bootstrap_update 在整目录改名失败时改走就地覆盖，pending 不会再卡死。",
+  "build": "2026.11.16.2",
+  "created": "2026-11-16T21:23:52+08:00",
+  "notes": "修复《重启并应用》无反应：subprocess 用列表形式时 start 的空引号被转义，cmd 解析失败，重启助手从未执行。改用字符串形式；同时去掉 taskkill /T（会把重启助手连坐杀掉）、启动时 chdir 到根目录、bootstrap_update 增加就地覆盖兜底。",
   "app": {
-    "url": "https://cdn.jsdelivr.net/gh/mingxingjun/cyrene-study-dist@main/updates/app-2026.11.16.1.zip",
-    "size": 1490565,
-    "sha256": "b1d8477e8c9e42692e105c736974cfd84095ab2dd1b504f8ae4c0d83745e42cc"
+    "url": "https://cdn.jsdelivr.net/gh/mingxingjun/cyrene-study-dist@main/updates/app-2026.11.16.2.zip",
+    "size": 1490847,
+    "sha256": "ac5cf2cba85a4f365e977040e14f2d3d04155c56b4b01ac2b78c0f8460261518"
   },
   "requires_full": false,
   "full_url": "https://wwboi.lanzoue.com/b01i5ye1qb",
