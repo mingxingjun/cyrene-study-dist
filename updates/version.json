@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "build": "2026.11.16.3",
-  "created": "2026-11-16T21:33:37+08:00",
-  "notes": "挂机重启再修一层：原来的 cmd 会随启动器所在的 Job 一起被结束，3 秒后没人拉起程序。改为交给 WMI 服务创建重启进程，脱离 Job 后再退出。",
+  "build": "2026.11.16.4",
+  "created": "2026-11-16T23:32:49+08:00",
+  "notes": "修两个扫描层 bug：①选项集合相同的两道不同题被当成重复渲染丢掉了（作业 25 题只认出 24 题，第 15 题连问都没问）；②填空的题干取成了 iframe 里已经填进去的答案（第 19、20 题都答「函数」）。",
   "app": {
-    "url": "https://cdn.jsdelivr.net/gh/mingxingjun/cyrene-study-dist@main/updates/app-2026.11.16.3.zip",
-    "size": 1491462,
-    "sha256": "fc022a6f7be17ed1a35739a4dc051363f0bb4d015777f6637b21b3b1296bfdb2"
+    "url": "https://cdn.jsdelivr.net/gh/mingxingjun/cyrene-study-dist@main/updates/app-2026.11.16.4.zip",
+    "size": 1581498,
+    "sha256": "c4b1983fb3cb00b1fcdb18eddbb275466606702342d9e553ff558742a8b532f1"
   },
   "requires_full": false,
   "full_url": "https://wwboi.lanzoue.com/b01i5ye1qb",
