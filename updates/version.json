@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "build": "2026.11.17.2",
-  "created": "2026-11-17T00:42:43+08:00",
-  "notes": "新增 tools\\restart_app.py：开发时一键重启（先关旧界面窗口再重启，避免桌面上留下指着死端口的空壳窗口）。运行方式不变，不影响答题/刷课逻辑。",
+  "build": "2026.11.17.3",
+  "created": "2026-11-17T01:30:04+08:00",
+  "notes": "界面五项改动：①设置里可选起始入口（学习通/智慧树），默认不再记住上次的网址；②底部实时预览可拖动拉高（双击复位，也有「↕ 高度」按钮）；③右上角版本号跟随实际 build 显示，有新版本会标出来，点一下进关于页；④昔涟头像默认隐藏，可在设置里打开；⑤答完题后若存在低置信度作答，会额外给一条醒目提醒。",
   "app": {
-    "url": "https://cdn.jsdelivr.net/gh/mingxingjun/cyrene-study-dist@main/updates/app-2026.11.17.2.zip",
-    "size": 1584931,
-    "sha256": "968ea5b9ad21dcfcf3129f0214d86fb7b2fa34fd131918267252becb651e2379"
+    "url": "https://cdn.jsdelivr.net/gh/mingxingjun/cyrene-study-dist@main/updates/app-2026.11.17.3.zip",
+    "size": 1595577,
+    "sha256": "5e0c4342f53072ab0c829245f7984cec61845c31f6d0875cfd7ef6d8dc06b547"
   },
   "requires_full": false,
   "full_url": "https://wwboi.lanzoue.com/b01i5ye1qb",
