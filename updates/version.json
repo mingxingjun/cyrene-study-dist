@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "build": "2026.11.17.3",
-  "created": "2026-11-17T01:30:04+08:00",
-  "notes": "界面五项改动：①设置里可选起始入口（学习通/智慧树），默认不再记住上次的网址；②底部实时预览可拖动拉高（双击复位，也有「↕ 高度」按钮）；③右上角版本号跟随实际 build 显示，有新版本会标出来，点一下进关于页；④昔涟头像默认隐藏，可在设置里打开；⑤答完题后若存在低置信度作答，会额外给一条醒目提醒。",
+  "build": "2026.11.17.4",
+  "created": "2026-11-17T01:36:03+08:00",
+  "notes": "界面五项改动（承接上一版，补齐两处）：①设置里可选起始入口（学习通/智慧树），默认不再记住上次的网址；②底部实时预览可拖动拉高（双击复位，也有「↕ 高度」按钮）；③右上角版本号跟随实际 build，开发版显示代码改动时间，有新版本会标出来，点一下进关于页；④昔涟头像默认隐藏，可在设置里打开；⑤答完题后若存在低置信度作答，会额外给一条醒目提醒。",
   "app": {
-    "url": "https://cdn.jsdelivr.net/gh/mingxingjun/cyrene-study-dist@main/updates/app-2026.11.17.3.zip",
-    "size": 1595577,
-    "sha256": "5e0c4342f53072ab0c829245f7984cec61845c31f6d0875cfd7ef6d8dc06b547"
+    "url": "https://cdn.jsdelivr.net/gh/mingxingjun/cyrene-study-dist@main/updates/app-2026.11.17.4.zip",
+    "size": 1596417,
+    "sha256": "79b5f0b051f4070a2d272811c9b809ce7f60cfb2ca3764a20af0036501a947cc"
   },
   "requires_full": false,
   "full_url": "https://wwboi.lanzoue.com/b01i5ye1qb",
